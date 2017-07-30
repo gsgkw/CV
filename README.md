@@ -1,25 +1,41 @@
-## Your Name
+## Guy Kemball-Williams
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I'm an ex-founder of an on-demand delivery app for alcohol and convenience goods ($250K raised, 20,000 users, >$250k turnover) with a background in financial analysis and property development. I love hard skills and building things and want to join a company where I can make beautiful, scalable software solutions to real world problems.
 
 ## Skills
 
-#### This Skill
+#### Financial Analyis
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+My role at Bevy (my startup) was Founder and CFO. As well as much of the day-to-day running of the business, I was behind the number-crunching for our financial projections, the accounts and our valuation. Prior to Bevy, I was the senior analyst at a fledgling property investment fund, Hearthstone Investments.
 
 - Experience
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Strategy
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I originated Bevy's business model and, when it wasn't quite working out, championed our pivot from service provider to direct-to-retail sales. Back in the mists of time, I also did a brief stint at Accenture advising Shell on how to upgrade their loyalty program across UK, Netherlands and Luxembourg.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Experience
+- Achievements
+- Evidence
+
+#### Research and Data Analysis
+
+I was responsible for the research on Bevy's potential market size and general viability (ultimately key to our $250K raised in seed funding), as well as all subsequent analysis of customer and sales data. While at Hearthstone, I produced all of their research notes and IFA briefings on everything from portfolio optimisation to the mortgage approvals.
+
+- Experience
+- Achievements
+- Evidence
+
+#### Plumbing, Electrics, Carpentry...
+
+Although not directly applicable to software development, this (hopefully) demonstrates versatility of thinking and a willingness to get my hands dirty. Immediately prior to founding my startup I spent 2 years renovating houses. Funds were tight and so together with YouTube and the UKGOV Building Regulations I taught myself to do the necessary skilled work. This included two totally new bathroom installations, major roof repairs, full rewiring, new central heating and a cellar conversion.
+
+- Saved $120K from quoted renovation costs
+- Directly managed 10+ labourers and subcontractors
+- Added $800K in value to completed projects
+
 
 ## Education
 
@@ -32,17 +48,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript, Node.js, Angular.js
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Brasenose College, Oxford University (Sep '06 - Jul '09)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Neuroscience and Philosophy BA (Hons) - 2.i
 
 #### Any other qualifications
+WSET Level 3 Award in Wine
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Bevy - your beverage butler** (Nov '14 to Jul '17)    
+*Founder/CFO*  
+**Sole Trader** (May '13 to Jan '15)   
+*Property Developer*  
+**Hearthstone Investments** (Nov '11 to May '13)   
+*Senior Analyst*  
+**Freight Investor Services** (Nov '10 to May '11)   
+*Junior Broker*
+**Accenture** (Apr '10 to Nov '10)   
+*Analyst Consultant*    
