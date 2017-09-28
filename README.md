@@ -1,6 +1,6 @@
 ## Guy Kemball-Williams
 
-I'm an ex-founder of an on-demand delivery app for alcohol and convenience goods ($250K raised, 20,000 users, >$250k turnover) with a background in financial analysis and property development. I love hard skills and building things and want to join a company where I can make beautiful, scalable software solutions to real world problems.
+I'm an ex-founder of an on-demand delivery app for alcohol and convenience goods ($250K raised, 20K users, >$250k turnover) with a background in financial analysis and property development. I love hard skills and building things and want to join a company where I can make beautiful, scalable software solutions to real world problems.
 
 ## Skills
 
@@ -8,13 +8,13 @@ I'm an ex-founder of an on-demand delivery app for alcohol and convenience goods
 
 My role at Bevy (my startup) was Founder and CFO. As well as much of the day-to-day running of the business, I was behind the number-crunching for our financial projections, the accounts and our valuation. Prior to Bevy, I was the senior analyst at a fledgling property investment fund, Hearthstone Investments.
 
-- Experience
-- Achievements
-- Evidence
+- Experience - so experienced
+- Achievements - loads  
+- Evidence - 
 
 #### Strategy
 
-I originated Bevy's business model and, when it wasn't quite working out, championed our pivot from service provider to direct-to-retail sales. Back in the mists of time, I also did a brief stint at Accenture advising Shell on how to upgrade their loyalty program across UK, Netherlands and Luxembourg.
+I originated Bevy's business model and, when it wasn't quite working out, championed our pivot from commercial service provider to direct-to-retail sales. Back in the mists of time, I also did a brief stint at Accenture advising Shell on how to upgrade their site system loyalty program across UK, Netherlands and Luxembourg.
 
 - Experience
 - Achievements
@@ -22,7 +22,7 @@ I originated Bevy's business model and, when it wasn't quite working out, champi
 
 #### Research and Data Analysis
 
-I was responsible for the research on Bevy's potential market size and general viability (ultimately key to our $250K raised in seed funding), as well as all subsequent analysis of customer and sales data. While at Hearthstone, I produced all of their research notes and IFA briefings on everything from portfolio optimisation to the mortgage approvals.
+I was responsible for the research on Bevy's potential market size and general viability (ultimately key to our $250K raised in seed funding), as well as all subsequent analysis of customer and sales data. While at Hearthstone, I produced all of their research notes and IFA briefings on everything from portfolio optimisation to mortgage approval stats.
 
 - Experience
 - Achievements
@@ -30,7 +30,7 @@ I was responsible for the research on Bevy's potential market size and general v
 
 #### Plumbing, Electrics, Carpentry...
 
-Although not directly applicable to software development, this (hopefully) demonstrates versatility of thinking and a willingness to get my hands dirty. Immediately prior to founding my startup I spent 2 years renovating houses. Funds were tight and so together with YouTube and the UKGOV Building Regulations I taught myself to do the necessary skilled work. This included two totally new bathroom installations, major roof repairs, full rewiring, new central heating and a cellar conversion.
+Although not directly applicable to software development, this (hopefully) demonstrates versatility of thinking and a willingness to get my hands dirty. Immediately prior to founding my startup I spent 2 years renovating houses. Funds were tight and so together with YouTube and the UKGOV Building Regulations I taught myself to do the necessary skilled work. This included two new bathroom creations/installations, major roof repairs, full rewiring, new central heating and a cellar conversion.
 
 - Saved $120K from quoted renovation costs
 - Directly managed 10+ labourers and subcontractors
@@ -45,7 +45,7 @@ Although not directly applicable to software development, this (hopefully) demon
 - Independent learner and problem-solver
 - OOP, TDD, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, JavaScript, Node.js, Angular.js
+- Ruby, Rails, JavaScript, Node.js
 - RSpec, Jasmine
 
 #### Brasenose College, Oxford University (Sep '06 - Jul '09)
