@@ -53,6 +53,5 @@ WSET Level 3 Award in Wine
 *Business Analyst*  
 **Freight Investor Services** (Nov '10 to May '11)   
 *Junior Broker*
-
 **Accenture** (Apr '10 to Nov '10)   
 *Analyst Consultant*    
