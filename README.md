@@ -52,6 +52,6 @@ WSET Level 3 Award in Wine
 **Hearthstone Investments** (Nov '11 to May '13)   
 *Business Analyst*  
 **Freight Investor Services** (Nov '10 to May '11)   
-*Junior Broker*
+*Junior Broker* 
 **Accenture** (Apr '10 to Nov '10)   
 *Analyst Consultant*    
