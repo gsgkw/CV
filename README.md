@@ -8,7 +8,7 @@ I'm an ex-founder of an on-demand delivery app (Bevy - £250K raised, 20K users,
 | 1. Marryo-land: ([Github](https://github.com/nick-otter/marryo-land))| A minimalist take on the gaming classic 'Super Mario Land'. | JavaScript, HTML5, Jasmine, Mocha |
 | 2. MooMood: ([Github](github.com/jenniferbacon01/moomood)) | A mood tracking chatbot | Swift, Dialogflow(api.ai), Realm, Parse, JSQMessagesViewController |
 
-<--- 2. Driftrock: ([Github](https://github.com/gsgkw/driftrockTT))| A command line app to call a public API and analyse the pulled data. | Ruby, JSON API, RSpec --->
+<!-- 2. Driftrock: ([Github](https://github.com/gsgkw/driftrockTT))| A command line app to call a public API and analyse the pulled data. | Ruby, JSON API, RSpec -->
 
 
 ## Skills
